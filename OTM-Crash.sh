@@ -47,6 +47,7 @@ three_enter="\n\n\n"
 dd="	$pila[+]$hara Creating .sh file......"
 ee="	$pila[+]$hara Successfully Created .sh file"
 ff="	$pila[+]$hara Now saved in internal storage"
+jj="	$bulu[+]$ajib Now use OTM-Crash.sh file"
 ll="e"
 i="c"
 k="h"
@@ -1111,6 +1112,9 @@ $so_jao 1
 $ll$i$k$h
 $ll$i$k$h
 $ll$i$k$h $o "$ff"
+$so_jao 1
+$ll$i$k$h
+$ll$i$k$h $o "$jj"
 
 fi
 
